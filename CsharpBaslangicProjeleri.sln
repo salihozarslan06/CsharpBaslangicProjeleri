@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dizilerOrnekProje", "dizile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tasKagitMakas", "tasKagitMakas\tasKagitMakas.csproj", "{32D2C7ED-5E95-4667-95D0-D2B16891A312}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vizeFinalHesaplama", "vizeFinalHesaplama\vizeFinalHesaplama.csproj", "{3DE8CBCC-6811-4F64-AB20-FEE539CE3E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayiTahminOyunu", "sayiTahminOyunu\sayiTahminOyunu.csproj", "{96A73DAD-CB27-4B9D-B438-53E088D0A419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{32D2C7ED-5E95-4667-95D0-D2B16891A312}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32D2C7ED-5E95-4667-95D0-D2B16891A312}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32D2C7ED-5E95-4667-95D0-D2B16891A312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE8CBCC-6811-4F64-AB20-FEE539CE3E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE8CBCC-6811-4F64-AB20-FEE539CE3E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE8CBCC-6811-4F64-AB20-FEE539CE3E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE8CBCC-6811-4F64-AB20-FEE539CE3E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A73DAD-CB27-4B9D-B438-53E088D0A419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A73DAD-CB27-4B9D-B438-53E088D0A419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A73DAD-CB27-4B9D-B438-53E088D0A419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A73DAD-CB27-4B9D-B438-53E088D0A419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
